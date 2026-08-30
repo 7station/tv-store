@@ -1,0 +1,52 @@
+{
+  "apps": [
+    {
+      "name": "TiviMate",
+      "package": "ar.tvplayer.tv",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/tivimate.apk",
+      "fileName": "tivimate.apk"
+    },
+    {
+      "name": "iMPlayer",
+      "package": "com.myiptvonline.implayer",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/iMPlayer.apk",
+      "fileName": "iMPlayer.apk"
+    },
+    {
+      "name": "Stremio",
+      "package": "com.stremio.one",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/Stremio.apk",
+      "fileName": "Stremio.apk"
+    },
+    {
+      "name": "Flix Vision",
+      "package": "flix.com.vision",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/FLIX.VISION.apk",
+      "fileName": "FLIX.VISION.apk"
+    },
+    {
+      "name": "Streamflix",
+      "package": "com.streamflixreborn.streamflix",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/streamflix.apk",
+      "fileName": "streamflix.apk"
+    },
+    {
+      "name": "Voltra TV",
+      "package": "com.voltra.tv",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/voltratv.apk",
+      "fileName": "voltratv.apk"
+    },
+    {
+      "name": "Tubi TV",
+      "package": "com.tubitv",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/tubitv.apk",
+      "fileName": "tubitv.apk"
+    },
+    {
+      "name": "TV Helper Update",
+      "package": "com.tvhelper.app",
+      "downloadUrl": "https://github.com/7station/tv-store/releases/download/Apps/tvhelper.apk",
+      "fileName": "tvhelper.apk"
+    }
+  ]
+}
